@@ -1,4 +1,4 @@
-# Joe-qijunhe
+# zhijian-yang
 
 - 👋 Hi, I'm @zhijian yang
 - 🌱 I'm currently a Software Engineering student at Unimelb.
